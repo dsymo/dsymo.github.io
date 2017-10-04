@@ -2,8 +2,8 @@
   "settings": {
     "currentPage": "index.html",
     "versionFirst": "3.3",
-    "uniqCompNum": 7,
-    "versionPublish": "4.2.5",
+    "uniqCompNum": 8,
+    "versionPublish": "4.3.2",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -22,7 +22,10 @@
         "isAnimatedOnScroll": true,
         "isScrollToTopButton": false,
         "isRtl": false
-      }
+      },
+      "additionalSetColors": [
+        "#084925"
+      ]
     },
     "scrollAnimation": "true",
     "favicon": "",
@@ -511,15 +514,15 @@
           "_name": "feed",
           "_anchor": "feed-4",
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingTop": "4",
+            "paddingBottom": "4",
             "postToLoad": "5",
-            "facebook": "https://www.facebook.com/david.symonds.376",
+            "facebook": "https://www.facebook.com/groups/139189986105368/",
             "twitter": "",
             "google": "",
             "youtube": "",
             "bgColorRadio": true,
-            "bgColor": "#fff",
+            "bgColor": "#084925",
             "bgImageRadio": false,
             "bgImage": "@ADDONS_PATH@/social-feed/feed/assets/comments_bg.jpg",
             "overlay": true,
